@@ -9,4 +9,3 @@ Joshua Lee, Team coordinator, Debugging
 
 Xuan Thinh, Project advisor and assistance
 
-The limitations of this program include:
