@@ -3,7 +3,9 @@ This bubble sort is a demonstrative program that sorts 8 numbers from lowest to 
 
 Credits to:
 Carter Recore, Frame work creation
+
 Joshua Lee, Team coordinator, Debugging
+
 Xuan Thinh, Project advisor and assistance
 
 The limitations of this program include:
