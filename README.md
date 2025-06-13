@@ -9,3 +9,4 @@ Joshua Lee, Team coordinator, Debugging
 
 Xuan Thinh, Project advisor and assistance
 
+Member Thinh states the program runs on the provided simulator. Other simulators from other members have different results. Further experimentation is needed.
